@@ -1,15 +1,15 @@
 const logotext = "IAN";
 const meta = {
     title: "Ian Harling",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    description: "blah blah blah blah",
 };
 
 const introdata = {
     title: "I’m Ian Harling",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I build",
+        second: "I design",
+        third: "I innovate",
     },
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
     your_img_url: "",
